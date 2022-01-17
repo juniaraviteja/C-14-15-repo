@@ -3,3 +3,5 @@ this is file-01.txt created in remote repo (clone command)
 this is file-01.txt created in local repo (push command)
 
 thi is from the file-01.txt created in remote repo (pull command)
+
+this is from file-01.txt upadted in local repo (push command)
